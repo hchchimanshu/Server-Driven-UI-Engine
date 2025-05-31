@@ -1,5 +1,7 @@
 # Server-Driven-UI-Engine
-This project demonstrates a Server-Driven UI (SDUI) engine built using Jetpack Compose, where the entire UI is defined dynamically from a JSON configuration (**Sample.json**). It provides a scalable and flexible way to render screens based on remote or local layout definitions, with minimal hardcoded logic.
+This project demonstrates a Server-Driven UI (SDUI) engine built using Jetpack Compose, where the entire UI is defined dynamically from a JSON configuration (**SampleJson.json**). It provides a scalable and flexible way to render screens based on remote or local layout definitions, with minimal hardcoded logic.
+
+**SampleJson.kt** Server-Driven-UI-Engine/tree/main/app/src/main/java/com/himanshuhc/jsontoui/SampleJson.kt
 
 # Key Features
 ## Dynamic UI Rendering
